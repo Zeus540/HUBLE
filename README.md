@@ -9,7 +9,7 @@
 ![image](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 ## Description
-A assessment for huble frontend-dev https://staging.zaheerroberts.co.za
+A assessment for huble frontend-dev https://huble.zaheerroberts.co.za/
 
 ## Pages
 1. Calculator
