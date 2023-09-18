@@ -14,12 +14,12 @@ A assessment for huble frontend-dev https://staging.zaheerroberts.co.za
 ## Pages
 1. Calculator
 
-    ![screencapture-localhost-5173-2023-09-18-03_47_52](https://github.com/Zeus540/HUBLE/assets/47927512/e8b76dfd-ed27-4333-8e6f-cb3e4effad53)
+   ![screencapture-localhost-5173-2023-09-18-03_47_52](https://github.com/Zeus540/HUBLE/assets/47927512/babe6575-ee0c-45d5-8c03-14b43c1589a0)
 
 
 2. Snap Docs Accordian
 
-    ![screencapture-localhost-5173-snapdocs-2023-09-18-03_49_09](https://github.com/Zeus540/HUBLE/assets/47927512/b71eb1b8-4fee-435a-b27e-4421cb82e580)
+   ![screencapture-localhost-5173-snapdocs-2023-09-18-03_49_09](https://github.com/Zeus540/HUBLE/assets/47927512/d166462e-cf4d-47d4-b8b7-ed33ecd912fb)
 
 ## Requirements
 1. Node v20.4.0
