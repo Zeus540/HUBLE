@@ -3,8 +3,7 @@
 
 [![HitCount](https://hits.dwyl.com/Zeus540/HUBLE.svg?style=flat-square)](http://hits.dwyl.com/Zeus540/HUBLE)
 
-![image](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=yarn&logoColor=white) 
-![image](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=node&logoColor=white) 
+
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![image](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
