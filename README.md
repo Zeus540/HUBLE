@@ -28,6 +28,6 @@ A assessment for huble frontend-dev https://staging.zaheerroberts.co.za
 ## Setup
     git clone https://github.com/Zeus540/HUBLE.git
     cd HUBLE
-    yarn add
+    yarn install
     yarn run dev
 
