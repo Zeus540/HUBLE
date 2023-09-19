@@ -14,7 +14,7 @@ A assessment for huble frontend-dev https://huble.zaheerroberts.co.za/
 ## Pages
 1. Calculator
    
-   the details on this module weren't clear so I  just rebuilt the module exactly as is allowing the user to enter a number that they can either choose to +,-,×,/
+the details on this module weren't clear so I  just rebuilt the module exactly as is allowing the user to enter a number that they can either choose to +,-,×,/
 
    ![screencapture-localhost-5173-2023-09-18-03_47_52](https://github.com/Zeus540/HUBLE/assets/47927512/babe6575-ee0c-45d5-8c03-14b43c1589a0)
 
